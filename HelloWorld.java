@@ -6,3 +6,17 @@ public class HelloWorld{
 		
 	}
 }
+
+class inner{
+	
+	private String name;
+	private int age;
+	
+	public inner(String name,int age){
+		
+		this.name = name;
+		this.age = age;
+		
+	}
+	
+}
